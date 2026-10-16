@@ -2,7 +2,7 @@
 
   ### Senior Software Engineer · Full-Stack
 
-  I build and operate production systems across the entire stack—from React and Next.js applications used by millions of people to Node.js microservices, shared engineering infrastructure,
+  I build and operate production systems across the entire stack—from React and Next.js applications used by a ton of people to Node.js microservices, shared engineering infrastructure,
   and CI/CD pipelines.
 
   For the past 5+ years, I have worked on complex digital platforms in entertainment, fintech, e-commerce, and developer tooling. At SunDevs, I contribute to the **Cinemark digital
